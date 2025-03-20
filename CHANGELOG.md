@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.4](https://github.com/Bhavishya-jasuja/SemanticVersioning/compare/v2.0.3...v2.0.4) (2025-03-20)
+
+
+### 🔧 Maintenance
+
+* **readme:** new 0001 ([1e3ca55](https://github.com/Bhavishya-jasuja/SemanticVersioning/commit/1e3ca55fc292bd5155e45edc38bd0d2ca761772b))
+
 ### [2.0.3](https://github.com/Bhavishya-jasuja/SemanticVersioning/compare/v2.0.2...v2.0.3) (2025-03-20)
 
 
