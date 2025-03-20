@@ -1,19 +1,3 @@
-# [](https://github.com/Bhavishya-jasuja/SemanticVersioning/compare/v2.0.2...v) (2025-03-20)
-
-
-### Bug Fixes
-
-* **api:** new 1 ([0ea965d](https://github.com/Bhavishya-jasuja/SemanticVersioning/commit/0ea965da92636ac9a96f85a1021ac2656d30bbd8))
-* **auth:** resolve session timeout issue ([cc41b8e](https://github.com/Bhavishya-jasuja/SemanticVersioning/commit/cc41b8e615c7bec1dc6cfb0ae1ace934c7cf0c15))
-
-
-### Features
-
-* **changelog:** added versionfile ([b162d9b](https://github.com/Bhavishya-jasuja/SemanticVersioning/commit/b162d9b6265e9bb5ead2b47c96238cade5d39de4))
-* **changelog:** added versionfile ([00d7b84](https://github.com/Bhavishya-jasuja/SemanticVersioning/commit/00d7b84df2af6d26242c04d59d1306f2b93c9df0))
-
-
-
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
