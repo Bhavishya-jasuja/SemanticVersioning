@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.3](https://github.com/Bhavishya-jasuja/SemanticVersioning/compare/v2.0.2...v2.0.3) (2025-03-20)
+
+
+### 🐛 Bug Fixes
+
+* **api:** new 1 ([0ea965d](https://github.com/Bhavishya-jasuja/SemanticVersioning/commit/0ea965da92636ac9a96f85a1021ac2656d30bbd8))
+
+
+### 📝 Documentation
+
+* **readme:** new 2 ([ad9eb03](https://github.com/Bhavishya-jasuja/SemanticVersioning/commit/ad9eb03538a24e539995087938eef51a8e2e779b))
+
+
+### 🔧 Maintenance
+
+* **readme:** new 3 ([c28219d](https://github.com/Bhavishya-jasuja/SemanticVersioning/commit/c28219d73c068bf7f988cab259ffc75c9e4eb18b))
+
 ### [2.0.2](https://github.com/Bhavishya-jasuja/SemanticVersioning/compare/v2.0.1...v2.0.2) (2025-03-20)
 
 
