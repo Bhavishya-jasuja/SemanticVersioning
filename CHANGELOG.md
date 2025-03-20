@@ -1,3 +1,12 @@
+# [](https://github.com/Bhavishya-jasuja/SemanticVersioning/compare/v2.0.4...v) (2025-03-20)
+
+
+### Bug Fixes
+
+* **auth:** resolve session timeout issue ([cc41b8e](https://github.com/Bhavishya-jasuja/SemanticVersioning/commit/cc41b8e615c7bec1dc6cfb0ae1ace934c7cf0c15))
+
+
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
